@@ -23,6 +23,8 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity implements PersonAdapter.ItemClick {
 
+    //TRY TO EDIT AND COMMIT IN GIT
+
     //declare const
     final int DETAIL_ACTIVITY = 1;
 
